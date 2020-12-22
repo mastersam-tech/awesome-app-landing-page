@@ -55,12 +55,12 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 social-links:
 #   github:
 #   facebook:
-  twitter:
+  twitter: https://twitter.com/phoenix
 #   pinterest:
-  instagram:
-  email:
+  instagram: https://twitter.com/phoenix
+  email: admin@phoenix.com
 #   youtube: # channel/<your_long_string> or <user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: https://twitter.com/phoenix # anything in your profile username that comes after plus.google.com/
 
 #
 # Enable/Disable Features & Page Elements
