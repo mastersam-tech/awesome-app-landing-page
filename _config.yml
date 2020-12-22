@@ -4,6 +4,8 @@
 
 # Be sure all REQUIRED fields are filled out!
 
+baseurl: "/phoenix"
+
 #
 # General App Info
 #
