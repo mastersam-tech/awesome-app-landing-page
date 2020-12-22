@@ -9,7 +9,7 @@
 #
 app:
   name: Phoenix # REQUIRED - Enter your app name
-  ios_id: # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  ios_id: 1234567890 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: com.mastersam-tech.phoenix # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
@@ -93,8 +93,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: Phoenix # Optional - Enter your site title
+description: Quality E-Store # Optional - Enter your site description
 
 #
 # Google Analytics
